@@ -7,4 +7,5 @@
 
 const a = 10 
 // const a = 20 
+// a = 20 we can't rea
 console.log(a)
