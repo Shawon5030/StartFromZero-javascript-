@@ -2,6 +2,8 @@
 // let length = 16;
 // let weight = 7.5;
 
+const { log } = require("console");
+
 // // Strings:
 // let color = "Yellow";
 // let lastName = "Johnson";
@@ -24,3 +26,9 @@
 
 // console.log(x); // Output: "16Volvo"
 
+let x ;
+console.log(x); // Output: "
+
+x=10
+
+console.log(x); // Output: 10
