@@ -21,3 +21,6 @@ const cars = ["Saab", "Volvo", "BMW"];
 // cars = [1,2,4] we can reasign a array
 cars[1] = 2 // but can change the value
 
+
+cars.push(1) //
+console.log(cars)
