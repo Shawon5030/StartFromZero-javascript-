@@ -1,3 +1,7 @@
 function age(){
-    return 27;
+    return 0;
 }
+
+let shawon =age()
+
+console.log(shawon)
