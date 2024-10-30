@@ -7,5 +7,8 @@
 
 const a = 10 
 // const a = 20 
-// a = 20 we can't rea
+// a = 20 we can't reassign to a const variable also redeclare
 console.log(a)
+
+const b 
+b = 10
