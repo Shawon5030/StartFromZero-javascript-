@@ -10,5 +10,7 @@ const a = 10
 // a = 20 we can't reassign to a const variable also redeclare
 console.log(a)
 
-const b 
-b = 10
+// const b  in a const variable must be initialized in when it's defined
+// b = 10
+
+const b = 10
