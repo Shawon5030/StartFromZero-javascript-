@@ -1,3 +1,5 @@
+const { log } = require("util")
+
 {
     const a = 10
     console.log(a)
@@ -30,3 +32,4 @@ console.log(cars)
 const car = {type:"Fiat", model:"500", color:"white"};
 
 car.type = 'green'
+console.log(car)
