@@ -20,6 +20,7 @@
 // const date = new Date("2022-03-25");
 
 // let x = 16 + "Volvo";
-let x = "Volvo" + 16;
+// let x = "Volvo" + 16;
 
-console.log(x); // Output: "16Volvo"
+// console.log(x); // Output: "16Volvo"
+
