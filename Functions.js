@@ -1,16 +1,16 @@
-function age(){
-    return 1;
-}
+// function age(){
+//     return 1;
+// }
 
-let shawon =age()
+// let shawon =age()
 
-console.log(shawon)
+// console.log(shawon)
 
-const name = function(){
+// const name = function(){
 
-    return "Shawon";
-}
+//     return "Shawon";
+// }
 
-let shawonName = name()
+// let shawonName = name()
 
-console.log(shawonName)
+// console.log(shawonName)
