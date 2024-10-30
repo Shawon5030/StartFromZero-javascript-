@@ -41,3 +41,5 @@ const { log } = require("console");
 
 // // Double quotes inside single quotes:
 // let answer3 = 'He is called "Johnny"';
+
+let bigint = 123456789012345678901234567890
