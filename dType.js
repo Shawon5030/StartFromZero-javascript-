@@ -26,9 +26,18 @@ const { log } = require("console");
 
 // console.log(x); // Output: "16Volvo"
 
-let x ;
-console.log(x); // Output: "
+// let x ;
+// console.log(x); // Output: "
 
-x=10
+// x=10
 
-console.log(x); // Output: 10
+// console.log(x); // Output: 10
+
+// Single quote inside double quotes:
+// let answer1 = "It's alright";
+
+// // Single quotes inside double quotes:
+// let answer2 = "He is called 'Johnny'";
+
+// // Double quotes inside single quotes:
+// let answer3 = 'He is called "Johnny"';
