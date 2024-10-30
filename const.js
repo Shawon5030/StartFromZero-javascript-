@@ -24,3 +24,9 @@ cars[1] = 2 // but can change the value
 
 cars.push(1) //
 console.log(cars)
+
+
+// You can create a const object:
+const car = {type:"Fiat", model:"500", color:"white"};
+
+car.type = 'green'
