@@ -14,3 +14,9 @@ console.log(a)
 // b = 10
 
 const b = 10
+
+
+
+const cars = ["Saab", "Volvo", "BMW"];
+cars[1] = 2
+
