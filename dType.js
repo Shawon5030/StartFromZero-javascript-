@@ -42,6 +42,12 @@ const { log } = require("console");
 // // Double quotes inside single quotes:
 // let answer3 = 'He is called "Johnny"';
 
-let bigint = BigInt(123456789012345678901234567890
-)
-console.log(bigint); // Output: 123456789012345678901234567890n
+// let bigint = BigInt(123456789012345678901234567890
+// )
+// console.log(bigint); // Output: 123456789012345678901234567890n
+
+
+const js_object = {
+    name : 'shawon',
+    
+}
