@@ -3,6 +3,8 @@
     console.log(a)
 }
 
-console.log(a) // const is a block scope so can't access
+// console.log(a) // const is a block scope so can't access
 
 const a = 10 
+// const a = 20 
+console.log(a)
