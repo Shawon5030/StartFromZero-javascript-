@@ -49,5 +49,8 @@ const { log } = require("console");
 
 const js_object = {
     name : 'shawon',
-    
+    age : 25,
+    address : 'kushtia'
 }
+
+console.log(js_object[name])
