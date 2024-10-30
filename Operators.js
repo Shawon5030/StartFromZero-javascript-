@@ -1,7 +1,7 @@
 
 
 let x = 5;
-let z =++x;
+let z =x++;
 
 
 console.log(z); // Output: 6
