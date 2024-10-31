@@ -4,5 +4,8 @@ title = document.querySelector('h1')
 // title.innerText = 'this is shawon'
 
 document.write(title.innerHTML)
-document.write()
+document.write("<br>")
 document.write(title.innerText)
+document.write(title.textContent)
+
+title.getAttribute('
