@@ -12,5 +12,9 @@ document.write(title.textContent)
 // document.write(a)
 
 title.setAttribute('class', 'heading')
+// let a = title.getAttribute('class')
+// document.write(a)
+
+link = title.Ccslist.add('heading1')
 let a = title.getAttribute('class')
 document.write(a)
