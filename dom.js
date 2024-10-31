@@ -18,3 +18,5 @@ title.setAttribute('class', 'heading')
 link = title.classList.add('heading1')
 let a = title.getAttribute('class')
 document.write(a)
+
+title.setAttribute('title','highlight')
