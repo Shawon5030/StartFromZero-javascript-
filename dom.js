@@ -22,8 +22,9 @@ document.write(a)
 title.setAttribute('title','highlight')
 
 let image = document.querySelector('img')
+console.log(image)
 let btn1 = document.querySelector('button')
 
 btn1.addEventListener('click', function(){
-    image.alt='true'
+    image.style.display = 'none'
 })
