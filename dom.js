@@ -8,4 +8,9 @@ document.write("<br>")
 document.write(title.innerText)
 document.write(title.textContent)
 
-title.getAttribute('
+// let a = title.getAttribute('class')
+// document.write(a)
+
+title.setAttribute('class', 'heading')
+let a = title.getAttribute('class')
+document.write(a)
