@@ -20,3 +20,5 @@ let a = title.getAttribute('class')
 document.write(a)
 
 title.setAttribute('title','highlight')
+
+let image = document.querySelector('img')
