@@ -22,8 +22,8 @@ document.write(a)
 title.setAttribute('title','highlight')
 
 let image = document.querySelector('img')
-let btn1 = document.querySelector('#tamim')
+let btn1 = document.querySelector('.tamim')
 
 btn1.addEventListener('click', function(){
-    image.src = ''
+    image.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFOuArCTohmfkabbQGSF3m0BWh74-J59vqw&s"
 })
