@@ -24,9 +24,9 @@ title.setAttribute('title','highlight')
 let image = document.querySelector('img')
 console.log(image)
 
-image.src = 'https://via.placeholder.com/300x300'
+
 let btn1 = document.querySelector('button')
 
 btn1.addEventListener('click', function(){
-    image.style.display = 'none'
+    image.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqElcdFxTkKvVx1gGyiPG7TYgOoVUM02jeag&s"
 })
