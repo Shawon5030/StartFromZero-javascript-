@@ -22,3 +22,8 @@ document.write(a)
 title.setAttribute('title','highlight')
 
 let image = document.querySelector('img')
+let btn1 = document.querySelector('#tamim')
+
+btn1.addEventListener('click', function(){
+    image.src = ''
+})
