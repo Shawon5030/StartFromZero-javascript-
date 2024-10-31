@@ -15,6 +15,6 @@ title.setAttribute('class', 'heading')
 // let a = title.getAttribute('class')
 // document.write(a)
 
-link = title.Ccslist.add('heading1')
+link = title.classList.add('heading1')
 let a = title.getAttribute('class')
 document.write(a)
