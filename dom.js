@@ -23,6 +23,8 @@ title.setAttribute('title','highlight')
 
 let image = document.querySelector('img')
 console.log(image)
+
+image.src = 'https://via.placeholder.com/300x300'
 let btn1 = document.querySelector('button')
 
 btn1.addEventListener('click', function(){
