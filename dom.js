@@ -30,4 +30,5 @@ let btn1 = document.querySelector('button')
 btn1.addEventListener('click', function(){
   
     image.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqElcdFxTkKvVx1gGyiPG7TYgOoVUM02jeag&s"
+    
 })
